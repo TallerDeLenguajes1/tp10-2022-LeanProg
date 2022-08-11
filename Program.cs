@@ -32,7 +32,7 @@ namespace ConsumoApi
                             foreach ( Civilization Civilizacion in Civilizaciones.Civilizations)
                             {
                               Console.WriteLine("Nombre: " + Civilizacion.Name); 
-                              Console.WriteLine("Expansion: " + Civilizacion.Expansion);       
+                              Console.WriteLine("Expansion2: " + Civilizacion.Expansion);       
                             }
                             
 
